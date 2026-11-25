@@ -1,0 +1,6 @@
+{
+  "name": "Ghar Ka Khana",
+  "description": "Home-style vegetarian meal subscriptions and daily tiffin delivery in Pune & PCMC. Thoda Ghar, Har Roz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
